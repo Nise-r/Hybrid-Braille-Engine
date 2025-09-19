@@ -12,7 +12,11 @@ The system integrates rule-based transliteration with a deep learning disambigua
 
 ## 🎨 Demo
 
-https://github.com/user-attachments/assets/844f093b-3de6-4863-b0d1-c3ff72838bc7
+
+
+https://github.com/user-attachments/assets/e004c940-9a58-4afe-ad2b-6bb3aabb53e7
+
+
 
 
 
